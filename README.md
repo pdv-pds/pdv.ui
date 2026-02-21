@@ -15,13 +15,14 @@ Até o presente momento, foram implementadas as interfaces do sistema, respeitan
 <img width="1920" height="1054" alt="image" src="https://github.com/user-attachments/assets/e7797eb0-be5b-439d-bed1-90dc93a1eeaf" />
 <img width="1920" height="1050" alt="image" src="https://github.com/user-attachments/assets/fbf4f4f2-f5da-4fdd-b016-f9cf0eec55f1" />
 
-+ **Tela adm**
-  - Painel Gerenciar Estoque
++ **Painel Gerenciar Estoque**
+  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcce4a8e-f5e7-4155-94f0-0654212f14d0" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ccc446d-d579-49d6-b398-28d6ed4d2227" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/559ecb12-d69c-4446-b7de-0bd6677bb0d9" />
 
-  - Painel Gerenciar Usuários
++ **Painel Gerenciar Usuários**
+  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492d37b7-b9b6-4fbd-8fe5-52f5d61bcfd6" />
 
 
